@@ -9,3 +9,7 @@ def capitalize(String):
 capitalize("shop") # [Shop]
 capitalize("python programming") # [Python Programming]
 capitalize("how are you!") # [How Are You!]
+
+n=5
+string="Hello World "
+print(string * n)
